@@ -11,7 +11,7 @@ Hey, I'm Harsh Sharma — a Computer Science undergrad at GLA University and a b
 ![Harsh's GitHub stats](https://github-readme-stats-tan-theta-79.vercel.app/api?username=Harsh-Sharma-0001&show_icons=true&theme=tokyonight)
 
 ## 🔥 GitHub Streak:
-![GitHub Streak](https://streak-stats.demolab.com?user=Harsh-Sharma-0001&theme=tokyonight&cache_seconds=86400)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Harsh-Sharma-0001&theme=tokyonight)
 
 ## 💻 Most Used Languages:
 ![Top Langs](https://github-readme-stats-tan-theta-79.vercel.app/api/top-langs/?username=Harsh-Sharma-0001&layout=compact&theme=tokyonight)
